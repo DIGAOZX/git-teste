@@ -10,7 +10,7 @@ $ rm -rf .git -> remove o git da pasta
 $ git status -> status 
 $ git restore README.md->  restaura a ultima versão antes da mudança 
 $git reset --soft --mixed --hard cola o hash-> reseta para ultima alteração usando o hash
-$->
+$-> . dentro do git hub abre o vscode dentro do git
 $->
 $->
 $->
